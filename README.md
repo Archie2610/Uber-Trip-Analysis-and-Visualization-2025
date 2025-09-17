@@ -22,9 +22,7 @@ Built an ETL pipeline for data cleaning & transformation, and created Power BI d
 👨‍💻 Author
 
 Alok Pathak
-
 📧 analyst.alokpathak26@gmail.com
-🌐 LinkedIn
-💻 GitHub
+
 
 <img width="3000" height="2000" alt="chart (1)" src="https://github.com/user-attachments/assets/cab1ba2f-0fc1-4e2d-a3b4-32a59233fef4" />
